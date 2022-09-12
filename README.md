@@ -1,4 +1,5 @@
 # NLW-eSports
+<br>
 
 <p align="center"><img width="600" src="./.github/nlw-esports-logo.svg"></p>
 <br>
